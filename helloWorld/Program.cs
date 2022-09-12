@@ -1,15 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, who are you?");
-// string name = Console.ReadLine();
-// Console.WriteLine("Hello, " + name + " how are you?");
-// string feeling = Console.ReadLine();
-// if (feeling.Contains("good"))
-// {
-//     Console.WriteLine("Good " + feeling);
-// }
-// else Console.WriteLine("Umama");
-
-bool play = false;
+﻿bool play = false;
 
 Console.WriteLine("Hello, let's have a quick meet");
 Console.WriteLine("What is your name?");
