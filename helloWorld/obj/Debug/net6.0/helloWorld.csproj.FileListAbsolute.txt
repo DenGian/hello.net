@@ -1,0 +1,15 @@
+/Users/dengian/git/hello.net/helloWorld/bin/Debug/net6.0/helloWorld
+/Users/dengian/git/hello.net/helloWorld/bin/Debug/net6.0/helloWorld.deps.json
+/Users/dengian/git/hello.net/helloWorld/bin/Debug/net6.0/helloWorld.runtimeconfig.json
+/Users/dengian/git/hello.net/helloWorld/bin/Debug/net6.0/helloWorld.dll
+/Users/dengian/git/hello.net/helloWorld/bin/Debug/net6.0/helloWorld.pdb
+/Users/dengian/git/hello.net/helloWorld/obj/Debug/net6.0/helloWorld.csproj.AssemblyReference.cache
+/Users/dengian/git/hello.net/helloWorld/obj/Debug/net6.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dengian/git/hello.net/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfoInputs.cache
+/Users/dengian/git/hello.net/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfo.cs
+/Users/dengian/git/hello.net/helloWorld/obj/Debug/net6.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/dengian/git/hello.net/helloWorld/obj/Debug/net6.0/helloWorld.dll
+/Users/dengian/git/hello.net/helloWorld/obj/Debug/net6.0/refint/helloWorld.dll
+/Users/dengian/git/hello.net/helloWorld/obj/Debug/net6.0/helloWorld.pdb
+/Users/dengian/git/hello.net/helloWorld/obj/Debug/net6.0/helloWorld.genruntimeconfig.cache
+/Users/dengian/git/hello.net/helloWorld/obj/Debug/net6.0/ref/helloWorld.dll
